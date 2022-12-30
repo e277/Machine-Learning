@@ -1,0 +1,4 @@
+jupyter nbconvert --to webpdf --allow-chromium-download your-notebook-file.ipynb
+
+Remove the --allow-chromium-download flag if you don’t want to download the Chromium browser.
+jupyter nbconvert --to webpdf your-notebook-file.ipynb

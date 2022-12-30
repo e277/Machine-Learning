@@ -1,0 +1,4 @@
+id,acc_no,acc_type,balance,bank_id
+1,acc-001,SAVINGS,1000.0,1
+2,acc-002,SAVINGS,300.0,1
+3,acc-003,CURRENT,1000.0,1

@@ -1,0 +1,4 @@
+id,first_name,last_name,phone_no,email_addr,address,acc_id,loan_id,join_dt
+1,ezra,muir,(876) 356-7600,ezra@gmail.com,abc avenue,1,1,2022-01-28
+2,trizzel,white,(876) 000-7600,name@email.com,xyz harbour,2,2,2009-03-20
+3,jada,kingdom,(876) 344-7000,jada@gmail.com,abc avenue,3,2,2010-05-24
